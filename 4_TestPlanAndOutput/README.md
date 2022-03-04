@@ -1,0 +1,1 @@
+|  HLR1       |Creation of new account| Name:abc  Account Number:123456789 Initia Deposit:1000|Congratulations... Your account has been created.|Congratulations... Your account has been created.|Requirement based |
